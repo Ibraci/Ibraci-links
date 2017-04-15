@@ -1,3 +1,0 @@
-Ceci est un fichier
-
-je vais faire un git pull sur mon hp
