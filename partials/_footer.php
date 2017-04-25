@@ -4,14 +4,17 @@
 
 				<div class="col-md-4">
 					<div class="gtco-widget">
-						<h3>About <span class="footer-logo">Splash<span>.<span></span></h3>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore eos molestias quod sint ipsum possimus temporibus officia iste perspiciatis consectetur in fugiat repudiandae cum. Totam cupiditate nostrum ut neque ab?</p>
+						<h3>A <span class="footer-logo">propos<span>.<span></span></h3>
+						<p>Nous accompagnons nos clients en amont, dans la création et en aval : étude, conception, design, développement, SEO, veille, gestion de l'e-réputation.
+						Ibraci Links est capable de répondre à tous vos besoins et élaborer une véritable stratégie digitale.
+						Cette maîtrise technologique nous permet de réaliser des sites web, des applis mobiles ou des applications métiers sur mesure et d'intégrer les principales solutions technologiques du marché.
+						Un seul partenaire pour plus de réactivité et de cohérence, une vision globale, des coûts et des délais maîtrisés. </p>
 					</div>
 				</div>
 
 				<div class="col-md-4 col-md-push-1">
 					<div class="gtco-widget">
-						<h3>Links</h3>
+						<h3>Liens</h3>
 						<ul class="gtco-footer-links">
 							<li><a href="service.php">Services</a></li>
 							<li><a href="blog.php">Blog</a></li>
@@ -22,7 +25,7 @@
 
 				<div class="col-md-4">
 					<div class="gtco-widget">
-						<h3>Get In Touch</h3>
+						<h3>Contact</h3>
 						<ul class="gtco-quick-contact">
 							<li><a href="#"><i class="icon-phone"></i> +223 74 83 85 33</a></li>
 							<li><a href="#"><i class="icon-mail2"></i> hello@ibracilinks.ml</a></li>

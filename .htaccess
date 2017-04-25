@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteRule ^accueil$ index.php
+
+RewriteRule ^service$ service.php
+
+RewriteRule ^blog$ blog.php
+
+RewriteRule ^contact$ contact.php
