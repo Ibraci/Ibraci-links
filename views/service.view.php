@@ -2,7 +2,7 @@
 
 	<?php include('partials/_header.php'); ?>
 
-	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/img_2.jpg)">
+	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/service.jpg)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -28,8 +28,7 @@
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading animate-box">
-					<h2>Splash Features</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<h2>Nos compétences au service de vos projets.</h2>
 				</div>
 			</div>
 			<div class="row">
@@ -39,7 +38,7 @@
 							<i class="ti-vector"></i>
 						</span>
 						<h3>Stratégie Digitale</h3>
-						<p>Une stratégie de marketing digital efficace s’appuie sur l’ensemble des pratiques marketing sur Internet (e-commerce, communication web, génération de trafic, etc.) à travers les différents supports utilisés (ordinateur, smartphone, tablette).</p>
+						<p>Nos services de stratégie fournissent des solutions numériques personnalisées pour vous transformer en un leader de l'industrie.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -47,8 +46,8 @@
 						<span class="icon">
 							<i class="ti-tablet"></i>
 						</span>
-						<h3>Fully Responsive</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Developpement Mobile</h3>
+						<p>Nous concevons, developpons et commercialisons votre application mobile pour assurer une connexion entre votre entreprise et votre public cible.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -56,8 +55,8 @@
 						<span class="icon">
 							<i class="ti-settings"></i>
 						</span>
-						<h3>Web Development</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Developpement Web</h3>
+						<p>Nos sites Web et nos applications Web basés sur HTML5 sont codés pour être compatibles avec le référencement et suivre les meilleures pratiques et les normes.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -65,8 +64,8 @@
 						<span class="icon">
 							<i class="ti-ruler-pencil"></i>
 						</span>
-						<h3>Web Design</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Web Marketing</h3>
+						<p>L'optimisation pour les moteur de recherche, l'accompagnement sur les réseaux sociaux,Campagnes publicitaires en ligne et d’emailing vous permet de gagner en visibilité mais aussi en rentabilité sur Internet.</p>
 					</div>
 				</div>
 
@@ -75,8 +74,8 @@
 						<span class="icon">
 							<i class="ti-paint-roller"></i>
 						</span>
-						<h3>Accent Colours</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Création Graphique</h3>
+						<p>Nous creons une votre charte graphique et tous vos de support de communication papier pour rendre marque identifiable et unique.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -84,8 +83,8 @@
 						<span class="icon">
 							<i class="ti-announcement"></i>
 						</span>
-						<h3>Theme Updates</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Digital Analytics</h3>
+						<p>Nous pouvons vous aider à créer un plan de marketing numérique qui vous permet de surpasser stratégiquement votre concurrence et de créer des résultats sur le marché.</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -93,8 +92,8 @@
 						<span class="icon">
 							<i class="ti-stats-up"></i>
 						</span>
-						<h3>Increase Earnings</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Référencement</h3>
+						<p>Nous optimisons le référencement naturel et payant de votre site sur les moteurs de recherche afin d'augmenter votre trafic (SEO, SEA et SMO).</p>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -102,8 +101,8 @@
 						<span class="icon">
 							<i class="ti-magnet"></i>
 						</span>
-						<h3>Passive Income</h3>
-						<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. </p>
+						<h3>Déploiement worldwide</h3>
+						<p>Nous concevons, développons et assurons le bon fonctionnement de ce dispositif auprès de tous vos partenaires étrangers.</p>
 					</div>
 				</div>
 
@@ -112,6 +111,6 @@
 	</div>
 
 	<?php 
-		include('partials/_newsletter.php');
+		// include('partials/_newsletter.php');
 		include('partials/_footer.php'); 
 	?>

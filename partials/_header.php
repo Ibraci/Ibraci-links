@@ -66,8 +66,9 @@
 					</div>
 					<div class="col-xs-8 text-right menu-1">
 						<ul>
+							<li><a href="accueil">Accueil</a></li>
 							<li><a href="service">Services</a></li>
-							<li><a href="blog">Blog</a></li>
+							<!-- <li><a href="blog">Blog</a></li> -->
 							<li><a href="contact">Contact</a></li>
 						</ul>
 					</div>

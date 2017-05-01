@@ -1,8 +1,10 @@
-	<?php include('includes/contant.php'); ?>
+	<?php 
+		$title = "Contact";
+		include('includes/contant.php'); ?>
 
 	<?php include('partials/_header.php'); ?>
 
-	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/img_4.jpg)">
+	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/apple.jpg)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -31,22 +33,22 @@
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label class="sr-only" for="name">Nom</label>
-								<input type="text" id="name" class="form-control" placeholder="Votre Prenom. Ex: Mohamed">
+								<input name="name" type="text" id="name" class="form-control" placeholder="Votre nom complet">
 							</div>
 							
 						</div>
 
 						<div class="row form-group">
 							<div class="col-md-12">
-								<label class="sr-only" for="email">Email</label>
-								<input type="text" id="email" class="form-control" placeholder="Votre adresse Email">
+								<label  class="sr-only" for="email">Email</label>
+								<input name="email" type="text" id="email" class="form-control" placeholder="Votre adresse email">
 							</div>
 						</div>
 
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label class="sr-only" for="subject">Objet</label>
-								<input type="text" id="subject" class="form-control" placeholder="L'object de votre message">
+								<input name="subject" type="text" id="subject" class="form-control" placeholder="L'object de votre message">
 							</div>
 						</div>
 
@@ -69,8 +71,8 @@
 						<ul>
 							<li class="address"><a href="http://maps.google.com/?cid=8352195238887399098&hl=en&gl=gb">Bacodjicoroni ACI, <br> Bamako, Mali</a></li>
 							<li class="phone">+ 223 74 83 85 33</li>
-							<li class="email">hello@ibracilinks.ml</li>
-							<li class="url"><a href="http://ibracilinks.ml">www.ibracilinks.ml</li>
+							<li class="email">hello@ibraci.ml</li>
+							<li class="url"><a href="http://ibracilinks.ml">www.ibracilinks.ml</a></li>
 						</ul>
 					</div>
 

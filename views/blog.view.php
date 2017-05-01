@@ -4,7 +4,7 @@
 	require('partials/_header.php'); 
 ?>
 
-	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/img_1.jpg)">
+	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/blog.jpg)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -252,6 +252,6 @@
 	</div>
 
 	<?php
-		include('partials/_newsletter.php');
+		// include('partials/_newsletter.php');
 		include('partials/_footer.php');
 	 ?>

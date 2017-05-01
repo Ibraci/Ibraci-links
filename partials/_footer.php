@@ -2,7 +2,7 @@
 		<div class="gtco-container">
 			<div class="row row-p	b-md">
 
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="gtco-widget">
 						<h3>A <span class="footer-logo">propos<span>.<span></span></h3>
 						<p>Nous accompagnons nos clients en amont, dans la création et en aval : étude, conception, design, développement, SEO, veille, gestion de l'e-réputation.
@@ -12,7 +12,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-4 col-md-push-1">
+				<!-- <div class="col-md-4 col-md-push-1">
 					<div class="gtco-widget">
 						<h3>Liens</h3>
 						<ul class="gtco-footer-links">
@@ -21,14 +21,14 @@
 							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</div>
-				</div>
+				</div> -->
 
 				<div class="col-md-4">
 					<div class="gtco-widget">
 						<h3>Contact</h3>
 						<ul class="gtco-quick-contact">
-							<li><a href="#"><i class="icon-phone"></i> +223 74 83 85 33</a></li>
-							<li><a href="#"><i class="icon-mail2"></i> hello@ibracilinks.ml</a></li>
+							<li><i class="icon-phone"></i> +223 74 83 85 33</li>
+							<li><i class="icon-mail2"></i> hello@ibraci.ml</li>
 						</ul>
 					</div>
 				</div>
@@ -42,9 +42,9 @@
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">
-							<li><a href="https://www.facebook.com/ibracilinks"><i class="icon-twitter"></i></a></li>
-							<li><a href="https://www.facebook.com/ibracilinks"><i class="icon-facebook"></i></a></li>
-							<li><a href="https://www.linkedin.com/company/ibraci-links"><i class="icon-linkedin"></i></a></li>
+							<li class="twitter"><a href="https://www.twitter.com/ibracilinks"><i class="icon-twitter"></i></a></li>
+							<li class="facebook"><a href="https://www.facebook.com/ibracilinks"><i class="icon-facebook"></i></a></li>
+							<li class="linkedin"><a href="https://www.linkedin.com/company/ibraci-links"><i class="icon-linkedin"></i></a></li>
 						</ul>
 					</p>
 				</div>
