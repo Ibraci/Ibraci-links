@@ -6,4 +6,6 @@ RewriteRule ^service$ service.php
 
 RewriteRule ^blog$ blog.php
 
+RewriteRule ^portfolio$ portfolio.php
+
 RewriteRule ^contact$ contact.php

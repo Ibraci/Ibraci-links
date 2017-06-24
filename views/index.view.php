@@ -358,16 +358,13 @@
 			<div class="row">
 				<div class="owl-carousel owl-carousel-carousel">
 					<div class="item">
+						<img src="images/gandhiconsulting.png" alt="Site web de presentation">
+					</div>
+					<div class="item">
 						<img src="images/amadoumt.png" alt="Site web personnel avec blog">
 					</div>
 					<div class="item">
 						<img src="images/apjec.png" alt="Site web institutionnel">
-					</div>
-					<div class="item">
-						<img src="images/pcash.png" alt="Site vitrine">
-					</div>
-					<div class="item">
-						<img src="images/payme.png" alt="Site vitrine">
 					</div>
 				</div>
 			</div>

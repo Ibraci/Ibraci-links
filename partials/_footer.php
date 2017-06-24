@@ -27,8 +27,9 @@
 					<div class="gtco-widget">
 						<h3>Contact</h3>
 						<ul class="gtco-quick-contact">
-							<li><i class="icon-phone"></i> +223 74 83 85 33</li>
+							<li><i class="icon-phone"></i> +223 74 83 85 33 / +91 96 86 729509</li>
 							<li><i class="icon-mail2"></i> hello@ibraci.ml</li>
+							<li><i class="icon-map"></i> Bamako, Mali / Bangalore, India</li>
 						</ul>
 					</div>
 				</div>
@@ -38,7 +39,7 @@
 			<div class="row copyright">
 				<div class="col-md-12">
 					<p class="pull-left">
-						<small class="block">&copy; 2017 Ibraci-Links.</small>
+						<small class="block">&copy; 2017 Ibraci-Links. All right reserved</small>
 					</p>
 					<p class="pull-right">
 						<ul class="gtco-social-icons pull-right">

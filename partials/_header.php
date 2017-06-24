@@ -6,7 +6,7 @@
 		<title><?php echo isset($title) ? $title .' | '. website_name : website_name. ' | ' .website_legende; ?></title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="<?php website_legende; ?>" />
-		<meta name="keywords" content="Agence web, Agence digitale, Ibraci, Ibraci-Links, creation de site web, reference naturel, visibilite sur le net" />
+		<meta name="keywords" content="Agence web, Agence digitale, Ibraci, Ibraci-Links, creation de site web, referencement naturel, visibilite sur le net, " />
 		<meta name="author" content="<?php website_author; ?>" />
 
 	  	<!-- Facebook and Twitter integration -->
@@ -21,6 +21,8 @@
 		<meta name="twitter:card" content="" />
 
 		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+
+		<link rel="icon" type="images/png" href="images/logo.png" />
 		
 		<!-- Animate.css -->
 		<link rel="stylesheet" href="css/animate.css" type="text/css" />
@@ -66,10 +68,11 @@
 					</div>
 					<div class="col-xs-8 text-right menu-1">
 						<ul>
-							<li><a href="accueil">Accueil</a></li>
-							<li><a href="service">Services</a></li>
+							<li><a href="accueil.php">Accueil</a></li>
+							<li><a href="service.php">Services</a></li>
 							<!-- <li><a href="blog">Blog</a></li> -->
-							<li><a href="contact">Contact</a></li>
+							<li><a href="portfolio.php">Portfolio</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</div>
 				</div>
